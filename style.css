@@ -1,0 +1,12 @@
+h1{
+    color: #293232; /*color tag is used to change text color */
+    font-size: 50px /*font size is used to increase or decrease text size*/
+}
+
+p.test{
+    color: rgb(255,0,0);
+    font-size: 30px;
+    text-align: center;/*text align is used to align text. We can align text in center, left, right, and justify*/
+    border: 5px solid blue;/* border is used to make boders*/
+    
+}
